@@ -1,0 +1,300 @@
+For 0.80 random rate and against agent actr_lag2_decay:
+Avg return: [ 9.06 -9.06]
+Wins: 247
+Losses: 139
+Draws: 14
+Win rate: 61.75%
+
+For 0.80 random rate and against agent adddriftbot2:
+Avg return: [ 70.65 -70.65]
+Wins: 399
+Losses: 1
+Draws: 0
+Win rate: 99.75%
+
+For 0.80 random rate and against agent addshiftbot3:
+Avg return: [ 93.4775 -93.4775]
+Wins: 400
+Losses: 0
+Draws: 0
+Win rate: 100.00%
+
+For 0.80 random rate and against agent antiflatbot:
+Avg return: [ 160.1475 -160.1475]
+Wins: 400
+Losses: 0
+Draws: 0
+Win rate: 100.00%
+
+For 0.80 random rate and against agent antirotnbot:
+Avg return: [ 52.4575 -52.4575]
+Wins: 400
+Losses: 0
+Draws: 0
+Win rate: 100.00%
+
+For 0.80 random rate and against agent biopic:
+Avg return: [ 17.7725 -17.7725]
+Wins: 330
+Losses: 65
+Draws: 5
+Win rate: 82.50%
+
+For 0.80 random rate and against agent boom:
+Avg return: [ 19.3975 -19.3975]
+Wins: 330
+Losses: 67
+Draws: 3
+Win rate: 82.50%
+
+For 0.80 random rate and against agent copybot:
+Avg return: [ 159.91 -159.91]
+Wins: 400
+Losses: 0
+Draws: 0
+Win rate: 100.00%
+
+For 0.80 random rate and against agent debruijn81:
+Avg return: [ 159.9675 -159.9675]
+Wins: 400
+Losses: 0
+Draws: 0
+Win rate: 100.00%
+
+For 0.80 random rate and against agent driftbot:
+Avg return: [ 68.21 -68.21]
+Wins: 398
+Losses: 2
+Draws: 0
+Win rate: 99.50%
+
+For 0.80 random rate and against agent flatbot3:
+Avg return: [ 62.47 -62.47]
+Wins: 398
+Losses: 2
+Draws: 0
+Win rate: 99.50%
+
+For 0.80 random rate and against agent foxtrotbot:
+Avg return: [ 79.1475 -79.1475]
+Wins: 400
+Losses: 0
+Draws: 0
+Win rate: 100.00%
+
+For 0.80 random rate and against agent freqbot2:
+Avg return: [ 145.005 -145.005]
+Wins: 400
+Losses: 0
+Draws: 0
+Win rate: 100.00%
+
+For 0.80 random rate and against agent granite:
+Avg return: [ 76.76 -76.76]
+Wins: 398
+Losses: 2
+Draws: 0
+Win rate: 99.50%
+
+For 0.80 random rate and against agent greenberg:
+Avg return: [ 6.4125 -6.4125]
+Wins: 248
+Losses: 148
+Draws: 4
+Win rate: 62.00%
+
+For 0.80 random rate and against agent halbot:
+Avg return: [ 43.26 -43.26]
+Wins: 368
+Losses: 30
+Draws: 2
+Win rate: 92.00%
+
+For 0.80 random rate and against agent inocencio:
+Avg return: [ 41.9525 -41.9525]
+Wins: 366
+Losses: 28
+Draws: 6
+Win rate: 91.50%
+
+For 0.80 random rate and against agent iocainebot:
+Avg return: [ 2.675 -2.675]
+Wins: 213
+Losses: 184
+Draws: 3
+Win rate: 53.25%
+
+For 0.80 random rate and against agent marble:
+Avg return: [ 76.6375 -76.6375]
+Wins: 399
+Losses: 1
+Draws: 0
+Win rate: 99.75%
+
+For 0.80 random rate and against agent markov5:
+Avg return: [-0.98  0.98]
+Wins: 184
+Losses: 211
+Draws: 5
+Win rate: 46.00%
+
+For 0.80 random rate and against agent markovbails:
+Avg return: [ 3.725 -3.725]
+Wins: 224
+Losses: 172
+Draws: 4
+Win rate: 56.00%
+
+For 0.80 random rate and against agent mixed_strategy:
+Avg return: [ 54.935 -54.935]
+Wins: 382
+Losses: 17
+Draws: 1
+Win rate: 95.50%
+
+For 0.80 random rate and against agent mod1bot:
+Avg return: [ 25.2675 -25.2675]
+Wins: 328
+Losses: 70
+Draws: 2
+Win rate: 82.00%
+
+For 0.80 random rate and against agent multibot:
+Avg return: [ 88.8075 -88.8075]
+Wins: 400
+Losses: 0
+Draws: 0
+Win rate: 100.00%
+
+For 0.80 random rate and against agent peterbot:
+Avg return: [ 137.575 -137.575]
+Wins: 400
+Losses: 0
+Draws: 0
+Win rate: 100.00%
+
+For 0.80 random rate and against agent phasenbott:
+Avg return: [ 0.7925 -0.7925]
+Wins: 204
+Losses: 191
+Draws: 5
+Win rate: 51.00%
+
+For 0.80 random rate and against agent pibot:
+Avg return: [ 158.745 -158.745]
+Wins: 400
+Losses: 0
+Draws: 0
+Win rate: 100.00%
+
+For 0.80 random rate and against agent piedra:
+Avg return: [ 40.135 -40.135]
+Wins: 390
+Losses: 9
+Draws: 1
+Win rate: 97.50%
+
+For 0.80 random rate and against agent predbot:
+Avg return: [ 98.1975 -98.1975]
+Wins: 400
+Losses: 0
+Draws: 0
+Win rate: 100.00%
+
+For 0.80 random rate and against agent r226bot:
+Avg return: [ 63.0825 -63.0825]
+Wins: 397
+Losses: 3
+Draws: 0
+Win rate: 99.25%
+
+For 0.80 random rate and against agent randbot:
+Avg return: [ 1.1275 -1.1275]
+Wins: 202
+Losses: 190
+Draws: 8
+Win rate: 50.50%
+
+For 0.80 random rate and against agent robertot:
+Avg return: [ 22.965 -22.965]
+Wins: 326
+Losses: 67
+Draws: 7
+Win rate: 81.50%
+
+For 0.80 random rate and against agent rockbot:
+Avg return: [ 161.0725 -161.0725]
+Wins: 400
+Losses: 0
+Draws: 0
+Win rate: 100.00%
+
+For 0.80 random rate and against agent rotatebot:
+Avg return: [ 158.5125 -158.5125]
+Wins: 400
+Losses: 0
+Draws: 0
+Win rate: 100.00%
+
+For 0.80 random rate and against agent russrocker4:
+Avg return: [ 4.0275 -4.0275]
+Wins: 214
+Losses: 180
+Draws: 6
+Win rate: 53.50%
+
+For 0.80 random rate and against agent shofar:
+Avg return: [ 8.85 -8.85]
+Wins: 252
+Losses: 144
+Draws: 4
+Win rate: 63.00%
+
+For 0.80 random rate and against agent sunCrazybot:
+Avg return: [ 106.32 -106.32]
+Wins: 400
+Losses: 0
+Draws: 0
+Win rate: 100.00%
+
+For 0.80 random rate and against agent sunNervebot:
+Avg return: [ 20.015 -20.015]
+Wins: 319
+Losses: 74
+Draws: 7
+Win rate: 79.75%
+
+For 0.80 random rate and against agent sweetrock:
+Avg return: [ 38.27 -38.27]
+Wins: 391
+Losses: 7
+Draws: 2
+Win rate: 97.75%
+
+For 0.80 random rate and against agent switchalot:
+Avg return: [ 47.3125 -47.3125]
+Wins: 386
+Losses: 14
+Draws: 0
+Win rate: 96.50%
+
+For 0.80 random rate and against agent switchbot:
+Avg return: [ 76.6325 -76.6325]
+Wins: 400
+Losses: 0
+Draws: 0
+Win rate: 100.00%
+
+For 0.80 random rate and against agent textbot:
+Avg return: [ 159.7425 -159.7425]
+Wins: 400
+Losses: 0
+Draws: 0
+Win rate: 100.00%
+
+For 0.80 random rate and against agent zq_move:
+Avg return: [ 123.525 -123.525]
+Wins: 400
+Losses: 0
+Draws: 0
+Win rate: 100.00%
